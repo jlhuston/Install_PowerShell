@@ -1,4 +1,4 @@
 # Update these global variables, used throughout.
-$AppName='Application Name'
-$AppVersion='Application Version for Comparison'
-$CompanyName='My Company'
+$AppName='Firefox Web Browser'
+$AppVersion='50.0'
+$CompanyName='bgC3'
